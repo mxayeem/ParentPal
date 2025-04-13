@@ -1,4 +1,6 @@
 I have worked on creating an SRS, sample Test cases and Edge cases
+
+
 So here’s what I want to build. I’m a parent of two school-going kids. And let me tell you — school communication is a mess these days. Every school has a Facebook group, a WhatsApp thread, emails, SMS… it's like ten different channels. I miss updates. I forget events. Sometimes I don’t even know when my child has homework. I want a single place where schools and parents can talk — a single app that connects teachers, parents, students, and maybe even school admins.
 The idea came to me last week when I forgot my son's Parent-Teacher Meeting. I had seen the message on WhatsApp two weeks ago, but it got buried under other chats. I want a mobile app that can solve this once and for all.
 The parent should be able to log in using their phone number. Once logged in, they see their child’s profile — their class, section, subjects, and teachers. The app should fetch the data from the school system, or maybe let the school admin upload it from Excel or something.
